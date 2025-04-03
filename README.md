@@ -6,7 +6,7 @@
 
 2. 해당 폴더에서 터미널(cmd 터미널이든 vs code에서의 터미널이든) 열고 다음 코드 입력
 ```
-git clone https://github.com/sherlock216/kweb_backend_practice/
+git clone https://github.com/sherlock216/kweb_backend_practice.git
 ```
 
 ### 코드 실행 방법
